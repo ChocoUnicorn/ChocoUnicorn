@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tessy Okoloani</h1>
+<h1 align="center">Hi 👋, I'm Tessy</h1>
 <h3 align="center">A passionate fullStack software engineer with experience in project management and a background in electronic engineering</h3>
 
 - 🔭 I’m currently working on [my 100hours project](https://github.com/ChocoUnicorn/School-Communication-Book-Project)
