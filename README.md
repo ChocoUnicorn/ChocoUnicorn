@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my 100hours project](https://github.com/ChocoUnicorn/School-Communication-Book-Project)
 
-- 🌱 I’m currently learning **React and Postgres**
+- 🌱 I’m currently mastering **Python, React and Postgres**
 
 - 👨‍💻 All of my projects are available at [https://tessyokoloani.netlify.com](https://tessyokoloani.netlify.com)
 
